@@ -72,7 +72,7 @@ card4.addEventListener("click", function (e) {
 /* Typewriter Effect */
 
 const textDisplay = document.getElementById('text')
-const phrases = ['Hello, my name is Harry.', 'I am a Software Developer.', 'I look forward to working with you in the future!']
+const phrases = ['Hello, my name is Ray.', 'I am a Software Developer.', 'I look forward to working with you in the near future!']
 let i = 0
 let j = 0
 let currentPhrase = []
