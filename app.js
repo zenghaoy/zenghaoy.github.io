@@ -70,6 +70,12 @@ card4.addEventListener("click", function (e) {
   card4.classList.toggle("is-flipped");
 });
 
+const card5 = document.querySelector(".card__inner5");
+
+card5.addEventListener("click", function (e) {
+  card5.classList.toggle("is-flipped");
+});
+
 /* End Flip-Card Effect */
 
 /* Typewriter Effect */
